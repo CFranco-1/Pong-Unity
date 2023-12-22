@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "PongClone.sln"
+    "dotnet.defaultSolution": "PongClone.sln",
+    "git.ignoreLimitWarning": true
 }
