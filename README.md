@@ -8,4 +8,4 @@ This is a recreation of the classic pong video game implemented in C# using Unit
 - WASD and Arrow Keys for movement
 
 # Images
-![pong](screenshot.jpg)
+![pong](screenshot.png)
